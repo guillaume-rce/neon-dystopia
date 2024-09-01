@@ -1,0 +1,38 @@
+.welcome-backgroud {
+    padding: 50px 100px !important;
+}
+
+.welcome-logo {
+    width: 400px !important;
+    display: block !important;
+}
+
+.welcome-text {
+    width: 500px !important;
+    margin-top: 5px !important;
+}
+
+.welcome-text.title {
+    font-weight: 700 !important;
+    color: var(--ColorTheme_NeonDystopia-4) !important;
+    transition: all 0.3s !important;
+}
+
+.welcome-text.title:hover {
+    color: var(--ColorTheme_NeonDystopia-3) !important;
+}
+
+.welcome-buttons {
+    margin-top: 30px !important;
+}
+
+.welcome-button {
+    font-weight: 700 !important;
+    border-color: var(--ColorTheme_NeonDystopia-4) !important;
+    color: var(--ColorTheme_NeonDystopia-4) !important;
+}
+
+.welcome-button:hover {
+    background-color: var(--ColorTheme_NeonDystopia-4) !important;
+    color: var(--ColorTheme_NeonDystopia_dark-3) !important;
+}

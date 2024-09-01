@@ -1,0 +1,19 @@
+:root {
+    --ColorTheme_NeonDystopia-1: #8C1456;
+    --ColorTheme_NeonDystopia-2: #F23DA0;
+    --ColorTheme_NeonDystopia-3: #F05CF2;
+    --ColorTheme_NeonDystopia-4: #0FDBF2;
+    --ColorTheme_NeonDystopia-5: #027373;
+
+    --ColorTheme_NeonDystopia_dark-1: #0D0809;
+    --ColorTheme_NeonDystopia_dark-2: #8C1456;
+    --ColorTheme_NeonDystopia_dark-3: #40102A;
+    --ColorTheme_NeonDystopia_dark-4: #027373;
+    --ColorTheme_NeonDystopia_dark-5: #022626;
+}
+
+.background {
+    background-color: var(--ColorTheme_NeonDystopia_dark-3);
+    color: white;
+    min-height: 100vh;
+}

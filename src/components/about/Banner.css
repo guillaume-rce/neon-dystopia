@@ -1,0 +1,29 @@
+.banner {
+    padding: 0 100px !important;
+}
+
+.banner-card {
+    border-color: var(--ColorTheme_NeonDystopia-2) !important;
+    border-width: 1px !important;
+    border-style: solid !important;
+}
+
+.banner-info {
+    margin-top: -22px !important;
+    margin-left: 10px !important;
+}
+
+.banner-avatar {
+    height: 32px !important;
+    width: 32px !important;
+}
+
+.banner-surplus {
+    height: 32px !important;
+    width: 32px !important;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+    font-size: 0.75rem; /* Ajustez la taille de la police au besoin */
+}

@@ -1,0 +1,5 @@
+.cards-container {
+    justify-content: space-between !important;
+    padding: 30px 100px !important;
+    box-sizing: border-box !important;
+}
