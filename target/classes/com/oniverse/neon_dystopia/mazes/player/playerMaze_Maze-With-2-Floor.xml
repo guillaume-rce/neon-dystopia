@@ -1,0 +1,4669 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<level author="Guillaume ROCHE" name="Level with two floor" version="1.2">
+    <mazes>
+        <maze height="10" id="0" layers="5" width="10">
+            <block id="15">
+                <coordinate>
+                    <layer>0</layer>
+                    <x>0</x>
+                    <y>0</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>0</layer>
+                    <x>0</x>
+                    <y>1</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>0</layer>
+                    <x>0</x>
+                    <y>2</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>0</layer>
+                    <x>0</x>
+                    <y>3</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>0</layer>
+                    <x>0</x>
+                    <y>4</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>0</layer>
+                    <x>0</x>
+                    <y>5</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>0</layer>
+                    <x>0</x>
+                    <y>6</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>0</layer>
+                    <x>0</x>
+                    <y>7</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>0</layer>
+                    <x>0</x>
+                    <y>8</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>0</layer>
+                    <x>0</x>
+                    <y>9</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>0</layer>
+                    <x>1</x>
+                    <y>9</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>0</layer>
+                    <x>2</x>
+                    <y>9</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>0</layer>
+                    <x>3</x>
+                    <y>9</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>0</layer>
+                    <x>4</x>
+                    <y>9</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>0</layer>
+                    <x>5</x>
+                    <y>9</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>0</layer>
+                    <x>6</x>
+                    <y>9</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>0</layer>
+                    <x>7</x>
+                    <y>9</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>0</layer>
+                    <x>8</x>
+                    <y>9</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>0</layer>
+                    <x>9</x>
+                    <y>9</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>0</layer>
+                    <x>9</x>
+                    <y>8</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>0</layer>
+                    <x>9</x>
+                    <y>7</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>0</layer>
+                    <x>9</x>
+                    <y>6</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>0</layer>
+                    <x>9</x>
+                    <y>5</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>0</layer>
+                    <x>9</x>
+                    <y>4</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>0</layer>
+                    <x>9</x>
+                    <y>3</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>0</layer>
+                    <x>9</x>
+                    <y>2</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>0</layer>
+                    <x>9</x>
+                    <y>1</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>0</layer>
+                    <x>9</x>
+                    <y>0</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>0</layer>
+                    <x>8</x>
+                    <y>0</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>0</layer>
+                    <x>7</x>
+                    <y>0</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>0</layer>
+                    <x>6</x>
+                    <y>0</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>0</layer>
+                    <x>5</x>
+                    <y>0</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>0</layer>
+                    <x>4</x>
+                    <y>0</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>0</layer>
+                    <x>3</x>
+                    <y>0</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>0</layer>
+                    <x>2</x>
+                    <y>0</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>0</layer>
+                    <x>1</x>
+                    <y>0</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>0</layer>
+                    <x>1</x>
+                    <y>1</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>0</layer>
+                    <x>1</x>
+                    <y>2</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>0</layer>
+                    <x>1</x>
+                    <y>3</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>0</layer>
+                    <x>1</x>
+                    <y>4</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>0</layer>
+                    <x>1</x>
+                    <y>5</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>0</layer>
+                    <x>1</x>
+                    <y>6</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>0</layer>
+                    <x>1</x>
+                    <y>7</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>0</layer>
+                    <x>2</x>
+                    <y>7</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>0</layer>
+                    <x>2</x>
+                    <y>8</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>0</layer>
+                    <x>4</x>
+                    <y>8</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>0</layer>
+                    <x>5</x>
+                    <y>8</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>0</layer>
+                    <x>6</x>
+                    <y>8</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>0</layer>
+                    <x>7</x>
+                    <y>8</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>0</layer>
+                    <x>8</x>
+                    <y>8</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>0</layer>
+                    <x>1</x>
+                    <y>8</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>0</layer>
+                    <x>3</x>
+                    <y>7</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>0</layer>
+                    <x>4</x>
+                    <y>7</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>0</layer>
+                    <x>5</x>
+                    <y>7</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>0</layer>
+                    <x>6</x>
+                    <y>7</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>0</layer>
+                    <x>7</x>
+                    <y>7</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>0</layer>
+                    <x>8</x>
+                    <y>7</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>0</layer>
+                    <x>3</x>
+                    <y>6</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>0</layer>
+                    <x>4</x>
+                    <y>6</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>0</layer>
+                    <x>5</x>
+                    <y>6</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>0</layer>
+                    <x>6</x>
+                    <y>6</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>0</layer>
+                    <x>7</x>
+                    <y>6</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>0</layer>
+                    <x>8</x>
+                    <y>6</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>0</layer>
+                    <x>2</x>
+                    <y>6</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>0</layer>
+                    <x>4</x>
+                    <y>5</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>0</layer>
+                    <x>5</x>
+                    <y>5</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>0</layer>
+                    <x>6</x>
+                    <y>5</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>0</layer>
+                    <x>7</x>
+                    <y>5</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>0</layer>
+                    <x>8</x>
+                    <y>5</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>0</layer>
+                    <x>3</x>
+                    <y>5</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>0</layer>
+                    <x>2</x>
+                    <y>5</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>0</layer>
+                    <x>3</x>
+                    <y>4</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>0</layer>
+                    <x>4</x>
+                    <y>4</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>0</layer>
+                    <x>5</x>
+                    <y>4</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>0</layer>
+                    <x>6</x>
+                    <y>4</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>0</layer>
+                    <x>7</x>
+                    <y>4</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>0</layer>
+                    <x>8</x>
+                    <y>4</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>0</layer>
+                    <x>2</x>
+                    <y>4</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>0</layer>
+                    <x>2</x>
+                    <y>3</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>0</layer>
+                    <x>3</x>
+                    <y>3</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>0</layer>
+                    <x>5</x>
+                    <y>3</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>0</layer>
+                    <x>6</x>
+                    <y>3</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>0</layer>
+                    <x>7</x>
+                    <y>3</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>0</layer>
+                    <x>8</x>
+                    <y>3</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>0</layer>
+                    <x>8</x>
+                    <y>2</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>0</layer>
+                    <x>7</x>
+                    <y>2</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>0</layer>
+                    <x>6</x>
+                    <y>2</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>0</layer>
+                    <x>5</x>
+                    <y>2</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>0</layer>
+                    <x>4</x>
+                    <y>2</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>0</layer>
+                    <x>3</x>
+                    <y>2</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>0</layer>
+                    <x>2</x>
+                    <y>2</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>0</layer>
+                    <x>2</x>
+                    <y>1</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>0</layer>
+                    <x>3</x>
+                    <y>1</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>0</layer>
+                    <x>5</x>
+                    <y>1</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>0</layer>
+                    <x>6</x>
+                    <y>1</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>0</layer>
+                    <x>7</x>
+                    <y>1</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>0</layer>
+                    <x>8</x>
+                    <y>1</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>0</layer>
+                    <x>4</x>
+                    <y>1</y>
+                </coordinate>
+                <textures>floor_3.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>0</layer>
+                    <x>4</x>
+                    <y>3</y>
+                </coordinate>
+                <textures>floor_5.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>0</layer>
+                    <x>3</x>
+                    <y>8</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="1">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>0</x>
+                    <y>9</y>
+                </coordinate>
+                <textures>wall_edge_bottom_left.png</textures>
+            </block>
+            <block id="1">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>1</x>
+                    <y>9</y>
+                </coordinate>
+                <textures>wall_edge_bottom_mid.png</textures>
+            </block>
+            <block id="1">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>3</x>
+                    <y>9</y>
+                </coordinate>
+                <textures>wall_edge_bottom_mid.png</textures>
+            </block>
+            <block id="1">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>4</x>
+                    <y>9</y>
+                </coordinate>
+                <textures>wall_edge_bottom_mid.png</textures>
+            </block>
+            <block id="1">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>6</x>
+                    <y>9</y>
+                </coordinate>
+                <textures>wall_edge_bottom_mid.png</textures>
+            </block>
+            <block id="1">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>7</x>
+                    <y>9</y>
+                </coordinate>
+                <textures>wall_edge_bottom_mid.png</textures>
+            </block>
+            <block id="1">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>8</x>
+                    <y>9</y>
+                </coordinate>
+                <textures>wall_edge_bottom_mid.png</textures>
+            </block>
+            <block id="1">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>9</x>
+                    <y>9</y>
+                </coordinate>
+                <textures>wall_edge_bottom_right.png</textures>
+            </block>
+            <block id="1">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>0</x>
+                    <y>0</y>
+                </coordinate>
+                <textures>wall_edge_left.png</textures>
+            </block>
+            <block id="1">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>0</x>
+                    <y>1</y>
+                </coordinate>
+                <textures>wall_edge_mid_left.png</textures>
+            </block>
+            <block id="1">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>0</x>
+                    <y>3</y>
+                </coordinate>
+                <textures>wall_edge_mid_left.png</textures>
+            </block>
+            <block id="1">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>0</x>
+                    <y>5</y>
+                </coordinate>
+                <textures>wall_edge_mid_left.png</textures>
+            </block>
+            <block id="1">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>0</x>
+                    <y>7</y>
+                </coordinate>
+                <textures>wall_edge_mid_left.png</textures>
+            </block>
+            <block id="1">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>0</x>
+                    <y>8</y>
+                </coordinate>
+                <textures>wall_edge_mid_left.png</textures>
+            </block>
+            <block id="1">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>9</x>
+                    <y>1</y>
+                </coordinate>
+                <textures>wall_edge_mid_right.png</textures>
+            </block>
+            <block id="1">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>9</x>
+                    <y>3</y>
+                </coordinate>
+                <textures>wall_edge_mid_right.png</textures>
+            </block>
+            <block id="1">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>9</x>
+                    <y>4</y>
+                </coordinate>
+                <textures>wall_edge_mid_right.png</textures>
+            </block>
+            <block id="1">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>9</x>
+                    <y>6</y>
+                </coordinate>
+                <textures>wall_edge_mid_right.png</textures>
+            </block>
+            <block id="1">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>9</x>
+                    <y>8</y>
+                </coordinate>
+                <textures>wall_edge_mid_right.png</textures>
+            </block>
+            <block id="1">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>9</x>
+                    <y>0</y>
+                </coordinate>
+                <textures>wall_edge_right.png</textures>
+            </block>
+            <block id="1">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>1</x>
+                    <y>0</y>
+                </coordinate>
+                <textures>wall_mid.png</textures>
+            </block>
+            <block id="1">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>2</x>
+                    <y>0</y>
+                </coordinate>
+                <textures>wall_mid.png</textures>
+            </block>
+            <block id="1">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>3</x>
+                    <y>0</y>
+                </coordinate>
+                <textures>wall_mid.png</textures>
+            </block>
+            <block id="1">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>4</x>
+                    <y>0</y>
+                </coordinate>
+                <textures>wall_mid.png</textures>
+            </block>
+            <block id="1">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>5</x>
+                    <y>0</y>
+                </coordinate>
+                <textures>wall_mid.png</textures>
+            </block>
+            <block id="1">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>6</x>
+                    <y>0</y>
+                </coordinate>
+                <textures>wall_mid.png</textures>
+            </block>
+            <block id="1">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>7</x>
+                    <y>0</y>
+                </coordinate>
+                <textures>wall_mid.png</textures>
+            </block>
+            <block id="1">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>8</x>
+                    <y>0</y>
+                </coordinate>
+                <textures>wall_mid.png</textures>
+            </block>
+            <block id="1">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>3</x>
+                    <y>2</y>
+                </coordinate>
+                <textures>wall_right.png</textures>
+            </block>
+            <block id="1">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>5</x>
+                    <y>2</y>
+                </coordinate>
+                <textures>wall_left.png</textures>
+            </block>
+            <block id="1">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>9</x>
+                    <y>2</y>
+                </coordinate>
+                <textures>wall_edge_right.png</textures>
+            </block>
+            <block id="1">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>0</x>
+                    <y>2</y>
+                </coordinate>
+                <textures>wall_edge_left.png</textures>
+            </block>
+            <block id="1">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>1</x>
+                    <y>2</y>
+                </coordinate>
+                <textures>wall_mid.png</textures>
+            </block>
+            <block id="1">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>2</x>
+                    <y>2</y>
+                </coordinate>
+                <textures>wall_mid.png</textures>
+            </block>
+            <block id="1">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>6</x>
+                    <y>2</y>
+                </coordinate>
+                <textures>wall_mid.png</textures>
+            </block>
+            <block id="1">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>8</x>
+                    <y>2</y>
+                </coordinate>
+                <textures>wall_mid.png</textures>
+            </block>
+            <block id="2">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>1</x>
+                    <y>1</y>
+                </coordinate>
+                <textures>start.png</textures>
+            </block>
+            <block id="6">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>8</x>
+                    <y>1</y>
+                </coordinate>
+                <textures>key.png</textures>
+            </block>
+            <block id="10">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>4</x>
+                    <y>2</y>
+                </coordinate>
+                <textures>trapped_slab_close.png</textures>
+            </block>
+            <block id="8">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>8</x>
+                    <y>3</y>
+                </coordinate>
+                <textures>stairs.png</textures>
+            </block>
+            <block id="7">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>8</x>
+                    <y>5</y>
+                </coordinate>
+                <textures>doors_closed.png</textures>
+            </block>
+            <block id="1">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>7</x>
+                    <y>2</y>
+                </coordinate>
+                <textures>wall_edge_left.png</textures>
+            </block>
+            <block id="1">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>7</x>
+                    <y>3</y>
+                </coordinate>
+                <textures>wall_edge_mid_left.png</textures>
+            </block>
+            <block id="1">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>7</x>
+                    <y>4</y>
+                </coordinate>
+                <textures>wall_edge_mid_left.png</textures>
+            </block>
+            <block id="1">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>7</x>
+                    <y>5</y>
+                </coordinate>
+                <textures>wall_edge_left.png</textures>
+            </block>
+            <block id="1">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>9</x>
+                    <y>5</y>
+                </coordinate>
+                <textures>wall_edge_right.png</textures>
+            </block>
+            <block id="9">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>8</x>
+                    <y>4</y>
+                </coordinate>
+                <textures>spikes_close.png</textures>
+            </block>
+            <block id="3">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>1</x>
+                    <y>8</y>
+                </coordinate>
+                <textures>stop.png</textures>
+            </block>
+            <block id="7">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>1</x>
+                    <y>6</y>
+                </coordinate>
+                <textures>doors_closed.png</textures>
+            </block>
+            <block id="1">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>0</x>
+                    <y>6</y>
+                </coordinate>
+                <textures>wall_edge_left.png</textures>
+            </block>
+            <block id="1">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>2</x>
+                    <y>6</y>
+                </coordinate>
+                <textures>wall_edge_right.png</textures>
+            </block>
+            <block id="1">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>2</x>
+                    <y>7</y>
+                </coordinate>
+                <textures>wall_edge_mid_right.png</textures>
+            </block>
+            <block id="1">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>2</x>
+                    <y>8</y>
+                </coordinate>
+                <textures>wall_edge_mid_right.png</textures>
+            </block>
+            <block id="1">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>2</x>
+                    <y>9</y>
+                </coordinate>
+                <textures>wall_edge_bottom_right.png</textures>
+            </block>
+            <block id="1">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>0</x>
+                    <y>4</y>
+                </coordinate>
+                <textures>wall_edge_left.png</textures>
+            </block>
+            <block id="1">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>1</x>
+                    <y>4</y>
+                </coordinate>
+                <textures>wall_mid.png</textures>
+            </block>
+            <block id="1">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>2</x>
+                    <y>4</y>
+                </coordinate>
+                <textures>wall_mid.png</textures>
+            </block>
+            <block id="1">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>3</x>
+                    <y>4</y>
+                </coordinate>
+                <textures>wall_mid.png</textures>
+            </block>
+            <block id="1">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>4</x>
+                    <y>4</y>
+                </coordinate>
+                <textures>wall_mid.png</textures>
+            </block>
+            <block id="1">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>5</x>
+                    <y>4</y>
+                </coordinate>
+                <textures>wall_mid.png</textures>
+            </block>
+            <block id="9">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>6</x>
+                    <y>4</y>
+                </coordinate>
+                <textures>spikes_close.png</textures>
+            </block>
+            <block id="5">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>4</x>
+                    <y>8</y>
+                </coordinate>
+                <textures>lever_close.png</textures>
+            </block>
+            <block id="5">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>1</x>
+                    <y>3</y>
+                </coordinate>
+                <textures>lever_close.png</textures>
+            </block>
+            <block id="7">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>6</x>
+                    <y>7</y>
+                </coordinate>
+                <textures>doors_closed.png</textures>
+            </block>
+            <block id="1">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>5</x>
+                    <y>7</y>
+                </coordinate>
+                <textures>wall_edge_left.png</textures>
+            </block>
+            <block id="1">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>5</x>
+                    <y>8</y>
+                </coordinate>
+                <textures>wall_edge_mid_left.png</textures>
+            </block>
+            <block id="1">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>5</x>
+                    <y>9</y>
+                </coordinate>
+                <textures>wall_edge_bottom_left.png</textures>
+            </block>
+            <block id="1">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>9</x>
+                    <y>7</y>
+                </coordinate>
+                <textures>wall_edge_right.png</textures>
+            </block>
+            <block id="1">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>7</x>
+                    <y>7</y>
+                </coordinate>
+                <textures>wall_mid.png</textures>
+            </block>
+            <block id="1">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>8</x>
+                    <y>7</y>
+                </coordinate>
+                <textures>wall_mid.png</textures>
+            </block>
+            <block id="9">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>3</x>
+                    <y>7</y>
+                </coordinate>
+                <textures>spikes_close.png</textures>
+            </block>
+            <block id="9">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>4</x>
+                    <y>7</y>
+                </coordinate>
+                <textures>spikes_close.png</textures>
+            </block>
+            <block id="4">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>6</x>
+                    <y>8</y>
+                </coordinate>
+                <textures>heart.png</textures>
+            </block>
+            <block id="4">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>7</x>
+                    <y>8</y>
+                </coordinate>
+                <textures>heart.png</textures>
+            </block>
+            <block id="6">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>8</x>
+                    <y>8</y>
+                </coordinate>
+                <textures>key.png</textures>
+            </block>
+            <block id="4">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>1</x>
+                    <y>7</y>
+                </coordinate>
+                <textures>heart.png</textures>
+            </block>
+            <block id="16">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>5</x>
+                    <y>3</y>
+                </coordinate>
+                <textures>default.png</textures>
+            </block>
+            <block id="16">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>3</x>
+                    <y>8</y>
+                </coordinate>
+                <textures>side_torch_2.png</textures>
+            </block>
+        </maze>
+        <maze height="15" id="1" layers="5" width="15">
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>0</x>
+                    <y>0</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>0</x>
+                    <y>1</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>0</x>
+                    <y>2</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>0</x>
+                    <y>3</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>0</x>
+                    <y>4</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>0</x>
+                    <y>5</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>0</x>
+                    <y>6</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>0</x>
+                    <y>7</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>0</x>
+                    <y>8</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>0</x>
+                    <y>9</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>0</x>
+                    <y>10</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>0</x>
+                    <y>11</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>0</x>
+                    <y>12</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>0</x>
+                    <y>13</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>0</x>
+                    <y>14</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>1</x>
+                    <y>14</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>2</x>
+                    <y>14</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>3</x>
+                    <y>14</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>4</x>
+                    <y>14</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>5</x>
+                    <y>14</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>6</x>
+                    <y>14</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>7</x>
+                    <y>14</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>8</x>
+                    <y>14</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>9</x>
+                    <y>14</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>10</x>
+                    <y>14</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>11</x>
+                    <y>14</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>12</x>
+                    <y>14</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>13</x>
+                    <y>14</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>14</x>
+                    <y>14</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>14</x>
+                    <y>13</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>14</x>
+                    <y>12</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>14</x>
+                    <y>11</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>14</x>
+                    <y>10</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>14</x>
+                    <y>9</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>14</x>
+                    <y>8</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>13</x>
+                    <y>8</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>13</x>
+                    <y>7</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>13</x>
+                    <y>6</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>13</x>
+                    <y>5</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>13</x>
+                    <y>4</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>13</x>
+                    <y>3</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>13</x>
+                    <y>2</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>13</x>
+                    <y>1</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>14</x>
+                    <y>1</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>14</x>
+                    <y>0</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>14</x>
+                    <y>2</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>14</x>
+                    <y>3</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>14</x>
+                    <y>4</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>14</x>
+                    <y>5</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>14</x>
+                    <y>6</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>14</x>
+                    <y>7</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>13</x>
+                    <y>0</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>12</x>
+                    <y>0</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>11</x>
+                    <y>0</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>10</x>
+                    <y>0</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>9</x>
+                    <y>0</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>8</x>
+                    <y>0</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>7</x>
+                    <y>0</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>6</x>
+                    <y>0</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>5</x>
+                    <y>0</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>4</x>
+                    <y>0</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>3</x>
+                    <y>0</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>2</x>
+                    <y>0</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>1</x>
+                    <y>0</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>1</x>
+                    <y>1</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>1</x>
+                    <y>2</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>1</x>
+                    <y>13</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>1</x>
+                    <y>12</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>1</x>
+                    <y>11</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>1</x>
+                    <y>10</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>1</x>
+                    <y>9</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>1</x>
+                    <y>8</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>1</x>
+                    <y>7</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>1</x>
+                    <y>6</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>1</x>
+                    <y>5</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>1</x>
+                    <y>4</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>1</x>
+                    <y>3</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>2</x>
+                    <y>1</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>3</x>
+                    <y>1</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>4</x>
+                    <y>1</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>5</x>
+                    <y>1</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>6</x>
+                    <y>1</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>7</x>
+                    <y>1</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>8</x>
+                    <y>1</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>9</x>
+                    <y>1</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>10</x>
+                    <y>1</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>11</x>
+                    <y>1</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>12</x>
+                    <y>1</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>12</x>
+                    <y>3</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>12</x>
+                    <y>4</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>12</x>
+                    <y>5</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>12</x>
+                    <y>6</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>12</x>
+                    <y>7</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>12</x>
+                    <y>8</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>12</x>
+                    <y>9</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>12</x>
+                    <y>10</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>11</x>
+                    <y>10</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>11</x>
+                    <y>11</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>11</x>
+                    <y>12</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>11</x>
+                    <y>13</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>12</x>
+                    <y>13</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>13</x>
+                    <y>13</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>13</x>
+                    <y>12</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>13</x>
+                    <y>11</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>13</x>
+                    <y>10</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>13</x>
+                    <y>9</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>12</x>
+                    <y>12</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>12</x>
+                    <y>11</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>12</x>
+                    <y>2</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>11</x>
+                    <y>2</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>11</x>
+                    <y>3</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>11</x>
+                    <y>4</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>11</x>
+                    <y>5</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>11</x>
+                    <y>6</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>11</x>
+                    <y>7</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>11</x>
+                    <y>8</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>11</x>
+                    <y>9</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>10</x>
+                    <y>13</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>10</x>
+                    <y>12</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>10</x>
+                    <y>11</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>10</x>
+                    <y>10</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>10</x>
+                    <y>9</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>10</x>
+                    <y>8</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>10</x>
+                    <y>7</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>10</x>
+                    <y>6</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>10</x>
+                    <y>5</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>10</x>
+                    <y>4</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>10</x>
+                    <y>3</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>10</x>
+                    <y>2</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>9</x>
+                    <y>2</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>8</x>
+                    <y>2</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>8</x>
+                    <y>3</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>9</x>
+                    <y>3</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>9</x>
+                    <y>4</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>9</x>
+                    <y>5</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>9</x>
+                    <y>6</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>9</x>
+                    <y>7</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>9</x>
+                    <y>8</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>9</x>
+                    <y>9</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>9</x>
+                    <y>10</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>9</x>
+                    <y>11</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>9</x>
+                    <y>12</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>9</x>
+                    <y>13</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>8</x>
+                    <y>13</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>8</x>
+                    <y>12</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>8</x>
+                    <y>11</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>8</x>
+                    <y>10</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>8</x>
+                    <y>9</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>8</x>
+                    <y>8</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>8</x>
+                    <y>7</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>8</x>
+                    <y>6</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>8</x>
+                    <y>5</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>8</x>
+                    <y>4</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>7</x>
+                    <y>2</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>7</x>
+                    <y>3</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>7</x>
+                    <y>4</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>7</x>
+                    <y>5</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>7</x>
+                    <y>6</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>7</x>
+                    <y>7</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>7</x>
+                    <y>8</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>7</x>
+                    <y>9</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>7</x>
+                    <y>10</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>7</x>
+                    <y>11</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>7</x>
+                    <y>12</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>7</x>
+                    <y>13</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>6</x>
+                    <y>13</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>6</x>
+                    <y>12</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>6</x>
+                    <y>11</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>6</x>
+                    <y>10</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>6</x>
+                    <y>9</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>6</x>
+                    <y>8</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>6</x>
+                    <y>7</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>6</x>
+                    <y>6</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>6</x>
+                    <y>5</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>6</x>
+                    <y>4</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>6</x>
+                    <y>3</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>6</x>
+                    <y>2</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>5</x>
+                    <y>2</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>5</x>
+                    <y>3</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>5</x>
+                    <y>4</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>5</x>
+                    <y>5</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>5</x>
+                    <y>6</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>5</x>
+                    <y>7</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>5</x>
+                    <y>8</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>5</x>
+                    <y>9</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>5</x>
+                    <y>10</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>5</x>
+                    <y>11</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>5</x>
+                    <y>12</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>5</x>
+                    <y>13</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>4</x>
+                    <y>13</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>3</x>
+                    <y>13</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>3</x>
+                    <y>12</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>3</x>
+                    <y>11</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>3</x>
+                    <y>10</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>3</x>
+                    <y>9</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>4</x>
+                    <y>8</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>4</x>
+                    <y>7</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>4</x>
+                    <y>6</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>4</x>
+                    <y>4</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>4</x>
+                    <y>3</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>4</x>
+                    <y>2</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>4</x>
+                    <y>5</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>4</x>
+                    <y>9</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>4</x>
+                    <y>10</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>4</x>
+                    <y>11</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>4</x>
+                    <y>12</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>2</x>
+                    <y>12</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>2</x>
+                    <y>13</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>2</x>
+                    <y>11</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>2</x>
+                    <y>10</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>3</x>
+                    <y>8</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>3</x>
+                    <y>7</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>3</x>
+                    <y>6</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>3</x>
+                    <y>5</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>3</x>
+                    <y>4</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>3</x>
+                    <y>3</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>3</x>
+                    <y>2</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>2</x>
+                    <y>2</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>2</x>
+                    <y>3</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>2</x>
+                    <y>4</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>2</x>
+                    <y>5</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>2</x>
+                    <y>6</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>2</x>
+                    <y>7</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>2</x>
+                    <y>8</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="15">
+                <coordinate>
+                    <layer>1</layer>
+                    <x>2</x>
+                    <y>9</y>
+                </coordinate>
+                <textures>floor_1.png</textures>
+            </block>
+            <block id="6">
+                <coordinate>
+                    <layer>2</layer>
+                    <x>13</x>
+                    <y>13</y>
+                </coordinate>
+                <textures>key.png</textures>
+            </block>
+            <block id="1">
+                <coordinate>
+                    <layer>2</layer>
+                    <x>1</x>
+                    <y>0</y>
+                </coordinate>
+                <textures>wall_mid.png</textures>
+            </block>
+            <block id="1">
+                <coordinate>
+                    <layer>2</layer>
+                    <x>2</x>
+                    <y>0</y>
+                </coordinate>
+                <textures>wall_mid.png</textures>
+            </block>
+            <block id="1">
+                <coordinate>
+                    <layer>2</layer>
+                    <x>3</x>
+                    <y>0</y>
+                </coordinate>
+                <textures>wall_mid.png</textures>
+            </block>
+            <block id="1">
+                <coordinate>
+                    <layer>2</layer>
+                    <x>5</x>
+                    <y>0</y>
+                </coordinate>
+                <textures>wall_mid.png</textures>
+            </block>
+            <block id="1">
+                <coordinate>
+                    <layer>2</layer>
+                    <x>6</x>
+                    <y>0</y>
+                </coordinate>
+                <textures>wall_mid.png</textures>
+            </block>
+            <block id="1">
+                <coordinate>
+                    <layer>2</layer>
+                    <x>7</x>
+                    <y>0</y>
+                </coordinate>
+                <textures>wall_mid.png</textures>
+            </block>
+            <block id="1">
+                <coordinate>
+                    <layer>2</layer>
+                    <x>8</x>
+                    <y>0</y>
+                </coordinate>
+                <textures>wall_mid.png</textures>
+            </block>
+            <block id="1">
+                <coordinate>
+                    <layer>2</layer>
+                    <x>9</x>
+                    <y>0</y>
+                </coordinate>
+                <textures>wall_mid.png</textures>
+            </block>
+            <block id="1">
+                <coordinate>
+                    <layer>2</layer>
+                    <x>10</x>
+                    <y>0</y>
+                </coordinate>
+                <textures>wall_mid.png</textures>
+            </block>
+            <block id="1">
+                <coordinate>
+                    <layer>2</layer>
+                    <x>11</x>
+                    <y>0</y>
+                </coordinate>
+                <textures>wall_mid.png</textures>
+            </block>
+            <block id="1">
+                <coordinate>
+                    <layer>2</layer>
+                    <x>12</x>
+                    <y>0</y>
+                </coordinate>
+                <textures>wall_mid.png</textures>
+            </block>
+            <block id="1">
+                <coordinate>
+                    <layer>2</layer>
+                    <x>13</x>
+                    <y>0</y>
+                </coordinate>
+                <textures>wall_mid.png</textures>
+            </block>
+            <block id="1">
+                <coordinate>
+                    <layer>2</layer>
+                    <x>4</x>
+                    <y>0</y>
+                </coordinate>
+                <textures>wall_hole_2.png</textures>
+            </block>
+            <block id="1">
+                <coordinate>
+                    <layer>2</layer>
+                    <x>0</x>
+                    <y>1</y>
+                </coordinate>
+                <textures>wall_edge_mid_left.png</textures>
+            </block>
+            <block id="1">
+                <coordinate>
+                    <layer>2</layer>
+                    <x>0</x>
+                    <y>3</y>
+                </coordinate>
+                <textures>wall_edge_mid_left.png</textures>
+            </block>
+            <block id="1">
+                <coordinate>
+                    <layer>2</layer>
+                    <x>0</x>
+                    <y>5</y>
+                </coordinate>
+                <textures>wall_edge_mid_left.png</textures>
+            </block>
+            <block id="1">
+                <coordinate>
+                    <layer>2</layer>
+                    <x>0</x>
+                    <y>7</y>
+                </coordinate>
+                <textures>wall_edge_mid_left.png</textures>
+            </block>
+            <block id="1">
+                <coordinate>
+                    <layer>2</layer>
+                    <x>0</x>
+                    <y>10</y>
+                </coordinate>
+                <textures>wall_edge_mid_left.png</textures>
+            </block>
+            <block id="1">
+                <coordinate>
+                    <layer>2</layer>
+                    <x>0</x>
+                    <y>13</y>
+                </coordinate>
+                <textures>wall_edge_mid_left.png</textures>
+            </block>
+            <block id="1">
+                <coordinate>
+                    <layer>2</layer>
+                    <x>14</x>
+                    <y>1</y>
+                </coordinate>
+                <textures>wall_edge_mid_right.png</textures>
+            </block>
+            <block id="1">
+                <coordinate>
+                    <layer>2</layer>
+                    <x>14</x>
+                    <y>2</y>
+                </coordinate>
+                <textures>wall_edge_mid_right.png</textures>
+            </block>
+            <block id="1">
+                <coordinate>
+                    <layer>2</layer>
+                    <x>14</x>
+                    <y>3</y>
+                </coordinate>
+                <textures>wall_edge_mid_right.png</textures>
+            </block>
+            <block id="1">
+                <coordinate>
+                    <layer>2</layer>
+                    <x>14</x>
+                    <y>4</y>
+                </coordinate>
+                <textures>wall_edge_mid_right.png</textures>
+            </block>
+            <block id="1">
+                <coordinate>
+                    <layer>2</layer>
+                    <x>14</x>
+                    <y>5</y>
+                </coordinate>
+                <textures>wall_edge_mid_right.png</textures>
+            </block>
+            <block id="1">
+                <coordinate>
+                    <layer>2</layer>
+                    <x>14</x>
+                    <y>6</y>
+                </coordinate>
+                <textures>wall_edge_mid_right.png</textures>
+            </block>
+            <block id="1">
+                <coordinate>
+                    <layer>2</layer>
+                    <x>14</x>
+                    <y>7</y>
+                </coordinate>
+                <textures>wall_edge_mid_right.png</textures>
+            </block>
+            <block id="1">
+                <coordinate>
+                    <layer>2</layer>
+                    <x>14</x>
+                    <y>8</y>
+                </coordinate>
+                <textures>wall_edge_mid_right.png</textures>
+            </block>
+            <block id="1">
+                <coordinate>
+                    <layer>2</layer>
+                    <x>14</x>
+                    <y>9</y>
+                </coordinate>
+                <textures>wall_edge_mid_right.png</textures>
+            </block>
+            <block id="1">
+                <coordinate>
+                    <layer>2</layer>
+                    <x>14</x>
+                    <y>10</y>
+                </coordinate>
+                <textures>wall_edge_mid_right.png</textures>
+            </block>
+            <block id="1">
+                <coordinate>
+                    <layer>2</layer>
+                    <x>14</x>
+                    <y>11</y>
+                </coordinate>
+                <textures>wall_edge_mid_right.png</textures>
+            </block>
+            <block id="1">
+                <coordinate>
+                    <layer>2</layer>
+                    <x>14</x>
+                    <y>13</y>
+                </coordinate>
+                <textures>wall_edge_mid_right.png</textures>
+            </block>
+            <block id="1">
+                <coordinate>
+                    <layer>2</layer>
+                    <x>14</x>
+                    <y>0</y>
+                </coordinate>
+                <textures>wall_edge_right.png</textures>
+            </block>
+            <block id="1">
+                <coordinate>
+                    <layer>2</layer>
+                    <x>0</x>
+                    <y>0</y>
+                </coordinate>
+                <textures>wall_edge_left.png</textures>
+            </block>
+            <block id="1">
+                <coordinate>
+                    <layer>2</layer>
+                    <x>14</x>
+                    <y>14</y>
+                </coordinate>
+                <textures>wall_edge_bottom_right.png</textures>
+            </block>
+            <block id="1">
+                <coordinate>
+                    <layer>2</layer>
+                    <x>13</x>
+                    <y>14</y>
+                </coordinate>
+                <textures>wall_edge_bottom_mid.png</textures>
+            </block>
+            <block id="1">
+                <coordinate>
+                    <layer>2</layer>
+                    <x>11</x>
+                    <y>14</y>
+                </coordinate>
+                <textures>wall_edge_bottom_mid.png</textures>
+            </block>
+            <block id="1">
+                <coordinate>
+                    <layer>2</layer>
+                    <x>10</x>
+                    <y>14</y>
+                </coordinate>
+                <textures>wall_edge_bottom_mid.png</textures>
+            </block>
+            <block id="1">
+                <coordinate>
+                    <layer>2</layer>
+                    <x>9</x>
+                    <y>14</y>
+                </coordinate>
+                <textures>wall_edge_bottom_mid.png</textures>
+            </block>
+            <block id="1">
+                <coordinate>
+                    <layer>2</layer>
+                    <x>7</x>
+                    <y>14</y>
+                </coordinate>
+                <textures>wall_edge_bottom_mid.png</textures>
+            </block>
+            <block id="1">
+                <coordinate>
+                    <layer>2</layer>
+                    <x>5</x>
+                    <y>14</y>
+                </coordinate>
+                <textures>wall_edge_bottom_mid.png</textures>
+            </block>
+            <block id="1">
+                <coordinate>
+                    <layer>2</layer>
+                    <x>4</x>
+                    <y>14</y>
+                </coordinate>
+                <textures>wall_edge_bottom_mid.png</textures>
+            </block>
+            <block id="1">
+                <coordinate>
+                    <layer>2</layer>
+                    <x>3</x>
+                    <y>14</y>
+                </coordinate>
+                <textures>wall_edge_bottom_mid.png</textures>
+            </block>
+            <block id="1">
+                <coordinate>
+                    <layer>2</layer>
+                    <x>2</x>
+                    <y>14</y>
+                </coordinate>
+                <textures>wall_edge_bottom_mid.png</textures>
+            </block>
+            <block id="1">
+                <coordinate>
+                    <layer>2</layer>
+                    <x>1</x>
+                    <y>14</y>
+                </coordinate>
+                <textures>wall_edge_bottom_mid.png</textures>
+            </block>
+            <block id="1">
+                <coordinate>
+                    <layer>2</layer>
+                    <x>0</x>
+                    <y>14</y>
+                </coordinate>
+                <textures>wall_edge_bottom_left.png</textures>
+            </block>
+            <block id="1">
+                <coordinate>
+                    <layer>2</layer>
+                    <x>14</x>
+                    <y>12</y>
+                </coordinate>
+                <textures>wall_edge_right.png</textures>
+            </block>
+            <block id="1">
+                <coordinate>
+                    <layer>2</layer>
+                    <x>12</x>
+                    <y>12</y>
+                </coordinate>
+                <textures>wall_edge_left.png</textures>
+            </block>
+            <block id="1">
+                <coordinate>
+                    <layer>2</layer>
+                    <x>12</x>
+                    <y>13</y>
+                </coordinate>
+                <textures>wall_edge_mid_left.png</textures>
+            </block>
+            <block id="1">
+                <coordinate>
+                    <layer>2</layer>
+                    <x>12</x>
+                    <y>14</y>
+                </coordinate>
+                <textures>wall_edge_bottom_left.png</textures>
+            </block>
+            <block id="8">
+                <coordinate>
+                    <layer>2</layer>
+                    <x>11</x>
+                    <y>13</y>
+                </coordinate>
+                <textures>stairs.png</textures>
+            </block>
+            <block id="7">
+                <coordinate>
+                    <layer>2</layer>
+                    <x>13</x>
+                    <y>12</y>
+                </coordinate>
+                <textures>doors_closed.png</textures>
+            </block>
+            <block id="7">
+                <coordinate>
+                    <layer>2</layer>
+                    <x>7</x>
+                    <y>9</y>
+                </coordinate>
+                <textures>doors_closed.png</textures>
+            </block>
+            <block id="1">
+                <coordinate>
+                    <layer>2</layer>
+                    <x>6</x>
+                    <y>14</y>
+                </coordinate>
+                <textures>wall_edge_bottom_left.png</textures>
+            </block>
+            <block id="1">
+                <coordinate>
+                    <layer>2</layer>
+                    <x>6</x>
+                    <y>10</y>
+                </coordinate>
+                <textures>wall_edge_mid_left.png</textures>
+            </block>
+            <block id="1">
+                <coordinate>
+                    <layer>2</layer>
+                    <x>6</x>
+                    <y>11</y>
+                </coordinate>
+                <textures>wall_edge_mid_left.png</textures>
+            </block>
+            <block id="1">
+                <coordinate>
+                    <layer>2</layer>
+                    <x>6</x>
+                    <y>12</y>
+                </coordinate>
+                <textures>wall_edge_mid_left.png</textures>
+            </block>
+            <block id="1">
+                <coordinate>
+                    <layer>2</layer>
+                    <x>6</x>
+                    <y>13</y>
+                </coordinate>
+                <textures>wall_edge_mid_left.png</textures>
+            </block>
+            <block id="1">
+                <coordinate>
+                    <layer>2</layer>
+                    <x>6</x>
+                    <y>9</y>
+                </coordinate>
+                <textures>wall_edge_left.png</textures>
+            </block>
+            <block id="1">
+                <coordinate>
+                    <layer>2</layer>
+                    <x>8</x>
+                    <y>9</y>
+                </coordinate>
+                <textures>wall_edge_right.png</textures>
+            </block>
+            <block id="1">
+                <coordinate>
+                    <layer>2</layer>
+                    <x>8</x>
+                    <y>10</y>
+                </coordinate>
+                <textures>wall_edge_mid_right.png</textures>
+            </block>
+            <block id="1">
+                <coordinate>
+                    <layer>2</layer>
+                    <x>8</x>
+                    <y>12</y>
+                </coordinate>
+                <textures>wall_edge_mid_right.png</textures>
+            </block>
+            <block id="1">
+                <coordinate>
+                    <layer>2</layer>
+                    <x>8</x>
+                    <y>13</y>
+                </coordinate>
+                <textures>wall_edge_mid_right.png</textures>
+            </block>
+            <block id="1">
+                <coordinate>
+                    <layer>2</layer>
+                    <x>8</x>
+                    <y>14</y>
+                </coordinate>
+                <textures>wall_edge_bottom_right.png</textures>
+            </block>
+            <block id="1">
+                <coordinate>
+                    <layer>2</layer>
+                    <x>11</x>
+                    <y>12</y>
+                </coordinate>
+                <textures>wall_mid.png</textures>
+            </block>
+            <block id="1">
+                <coordinate>
+                    <layer>2</layer>
+                    <x>10</x>
+                    <y>12</y>
+                </coordinate>
+                <textures>wall_mid.png</textures>
+            </block>
+            <block id="1">
+                <coordinate>
+                    <layer>2</layer>
+                    <x>9</x>
+                    <y>10</y>
+                </coordinate>
+                <textures>wall_mid.png</textures>
+            </block>
+            <block id="1">
+                <coordinate>
+                    <layer>2</layer>
+                    <x>10</x>
+                    <y>10</y>
+                </coordinate>
+                <textures>wall_mid.png</textures>
+            </block>
+            <block id="1">
+                <coordinate>
+                    <layer>2</layer>
+                    <x>11</x>
+                    <y>10</y>
+                </coordinate>
+                <textures>wall_mid.png</textures>
+            </block>
+            <block id="1">
+                <coordinate>
+                    <layer>2</layer>
+                    <x>12</x>
+                    <y>10</y>
+                </coordinate>
+                <textures>wall_mid.png</textures>
+            </block>
+            <block id="1">
+                <coordinate>
+                    <layer>2</layer>
+                    <x>11</x>
+                    <y>8</y>
+                </coordinate>
+                <textures>wall_mid.png</textures>
+            </block>
+            <block id="1">
+                <coordinate>
+                    <layer>2</layer>
+                    <x>10</x>
+                    <y>8</y>
+                </coordinate>
+                <textures>wall_mid.png</textures>
+            </block>
+            <block id="1">
+                <coordinate>
+                    <layer>2</layer>
+                    <x>9</x>
+                    <y>8</y>
+                </coordinate>
+                <textures>wall_mid.png</textures>
+            </block>
+            <block id="4">
+                <coordinate>
+                    <layer>2</layer>
+                    <x>7</x>
+                    <y>13</y>
+                </coordinate>
+                <textures>heart.png</textures>
+            </block>
+            <block id="9">
+                <coordinate>
+                    <layer>2</layer>
+                    <x>9</x>
+                    <y>12</y>
+                </coordinate>
+                <textures>spikes_close.png</textures>
+            </block>
+            <block id="5">
+                <coordinate>
+                    <layer>2</layer>
+                    <x>9</x>
+                    <y>9</y>
+                </coordinate>
+                <textures>lever_close.png</textures>
+            </block>
+            <block id="1">
+                <coordinate>
+                    <layer>2</layer>
+                    <x>12</x>
+                    <y>8</y>
+                </coordinate>
+                <textures>wall_edge_right.png</textures>
+            </block>
+            <block id="1">
+                <coordinate>
+                    <layer>2</layer>
+                    <x>12</x>
+                    <y>7</y>
+                </coordinate>
+                <textures>wall_edge_mid_right.png</textures>
+            </block>
+            <block id="1">
+                <coordinate>
+                    <layer>2</layer>
+                    <x>12</x>
+                    <y>6</y>
+                </coordinate>
+                <textures>wall_edge_mid_right.png</textures>
+            </block>
+            <block id="1">
+                <coordinate>
+                    <layer>2</layer>
+                    <x>12</x>
+                    <y>5</y>
+                </coordinate>
+                <textures>wall_edge_mid_right.png</textures>
+            </block>
+            <block id="1">
+                <coordinate>
+                    <layer>2</layer>
+                    <x>12</x>
+                    <y>4</y>
+                </coordinate>
+                <textures>wall_edge_mid_right.png</textures>
+            </block>
+            <block id="1">
+                <coordinate>
+                    <layer>2</layer>
+                    <x>12</x>
+                    <y>3</y>
+                </coordinate>
+                <textures>wall_edge_mid_right.png</textures>
+            </block>
+            <block id="1">
+                <coordinate>
+                    <layer>2</layer>
+                    <x>12</x>
+                    <y>2</y>
+                </coordinate>
+                <textures>wall_edge_right.png</textures>
+            </block>
+            <block id="1">
+                <coordinate>
+                    <layer>2</layer>
+                    <x>11</x>
+                    <y>2</y>
+                </coordinate>
+                <textures>wall_mid.png</textures>
+            </block>
+            <block id="1">
+                <coordinate>
+                    <layer>2</layer>
+                    <x>10</x>
+                    <y>2</y>
+                </coordinate>
+                <textures>wall_mid.png</textures>
+            </block>
+            <block id="1">
+                <coordinate>
+                    <layer>2</layer>
+                    <x>9</x>
+                    <y>2</y>
+                </coordinate>
+                <textures>wall_mid.png</textures>
+            </block>
+            <block id="1">
+                <coordinate>
+                    <layer>2</layer>
+                    <x>8</x>
+                    <y>2</y>
+                </coordinate>
+                <textures>wall_mid.png</textures>
+            </block>
+            <block id="1">
+                <coordinate>
+                    <layer>2</layer>
+                    <x>7</x>
+                    <y>2</y>
+                </coordinate>
+                <textures>wall_mid.png</textures>
+            </block>
+            <block id="1">
+                <coordinate>
+                    <layer>2</layer>
+                    <x>6</x>
+                    <y>2</y>
+                </coordinate>
+                <textures>wall_mid.png</textures>
+            </block>
+            <block id="1">
+                <coordinate>
+                    <layer>2</layer>
+                    <x>5</x>
+                    <y>2</y>
+                </coordinate>
+                <textures>wall_mid.png</textures>
+            </block>
+            <block id="1">
+                <coordinate>
+                    <layer>2</layer>
+                    <x>1</x>
+                    <y>2</y>
+                </coordinate>
+                <textures>wall_mid.png</textures>
+            </block>
+            <block id="1">
+                <coordinate>
+                    <layer>2</layer>
+                    <x>2</x>
+                    <y>2</y>
+                </coordinate>
+                <textures>wall_mid.png</textures>
+            </block>
+            <block id="1">
+                <coordinate>
+                    <layer>2</layer>
+                    <x>3</x>
+                    <y>2</y>
+                </coordinate>
+                <textures>wall_mid.png</textures>
+            </block>
+            <block id="6">
+                <coordinate>
+                    <layer>2</layer>
+                    <x>1</x>
+                    <y>1</y>
+                </coordinate>
+                <textures>key.png</textures>
+            </block>
+            <block id="7">
+                <coordinate>
+                    <layer>2</layer>
+                    <x>4</x>
+                    <y>2</y>
+                </coordinate>
+                <textures>doors_closed.png</textures>
+            </block>
+            <block id="9">
+                <coordinate>
+                    <layer>2</layer>
+                    <x>13</x>
+                    <y>3</y>
+                </coordinate>
+                <textures>spikes_close.png</textures>
+            </block>
+            <block id="9">
+                <coordinate>
+                    <layer>2</layer>
+                    <x>13</x>
+                    <y>4</y>
+                </coordinate>
+                <textures>spikes_close.png</textures>
+            </block>
+            <block id="9">
+                <coordinate>
+                    <layer>2</layer>
+                    <x>13</x>
+                    <y>5</y>
+                </coordinate>
+                <textures>spikes_close.png</textures>
+            </block>
+            <block id="9">
+                <coordinate>
+                    <layer>2</layer>
+                    <x>13</x>
+                    <y>6</y>
+                </coordinate>
+                <textures>spikes_close.png</textures>
+            </block>
+            <block id="4">
+                <coordinate>
+                    <layer>2</layer>
+                    <x>11</x>
+                    <y>9</y>
+                </coordinate>
+                <textures>heart.png</textures>
+            </block>
+            <block id="1">
+                <coordinate>
+                    <layer>2</layer>
+                    <x>5</x>
+                    <y>4</y>
+                </coordinate>
+                <textures>wall_mid.png</textures>
+            </block>
+            <block id="1">
+                <coordinate>
+                    <layer>2</layer>
+                    <x>6</x>
+                    <y>4</y>
+                </coordinate>
+                <textures>wall_mid.png</textures>
+            </block>
+            <block id="1">
+                <coordinate>
+                    <layer>2</layer>
+                    <x>7</x>
+                    <y>4</y>
+                </coordinate>
+                <textures>wall_mid.png</textures>
+            </block>
+            <block id="1">
+                <coordinate>
+                    <layer>2</layer>
+                    <x>9</x>
+                    <y>4</y>
+                </coordinate>
+                <textures>wall_mid.png</textures>
+            </block>
+            <block id="1">
+                <coordinate>
+                    <layer>2</layer>
+                    <x>10</x>
+                    <y>4</y>
+                </coordinate>
+                <textures>wall_edge_right.png</textures>
+            </block>
+            <block id="1">
+                <coordinate>
+                    <layer>2</layer>
+                    <x>10</x>
+                    <y>5</y>
+                </coordinate>
+                <textures>wall_edge_mid_right.png</textures>
+            </block>
+            <block id="1">
+                <coordinate>
+                    <layer>2</layer>
+                    <x>10</x>
+                    <y>6</y>
+                </coordinate>
+                <textures>wall_edge_mid_right.png</textures>
+            </block>
+            <block id="7">
+                <coordinate>
+                    <layer>2</layer>
+                    <x>4</x>
+                    <y>4</y>
+                </coordinate>
+                <textures>doors_closed.png</textures>
+            </block>
+            <block id="5">
+                <coordinate>
+                    <layer>2</layer>
+                    <x>9</x>
+                    <y>5</y>
+                </coordinate>
+                <textures>lever_close.png</textures>
+            </block>
+            <block id="1">
+                <coordinate>
+                    <layer>2</layer>
+                    <x>8</x>
+                    <y>4</y>
+                </coordinate>
+                <textures>wall_edge_left.png</textures>
+            </block>
+            <block id="1">
+                <coordinate>
+                    <layer>2</layer>
+                    <x>8</x>
+                    <y>5</y>
+                </coordinate>
+                <textures>wall_edge_mid_left.png</textures>
+            </block>
+            <block id="1">
+                <coordinate>
+                    <layer>2</layer>
+                    <x>8</x>
+                    <y>6</y>
+                </coordinate>
+                <textures>wall_edge_mid_left.png</textures>
+            </block>
+            <block id="1">
+                <coordinate>
+                    <layer>2</layer>
+                    <x>8</x>
+                    <y>7</y>
+                </coordinate>
+                <textures>wall_edge_mid_left.png</textures>
+            </block>
+            <block id="1">
+                <coordinate>
+                    <layer>2</layer>
+                    <x>8</x>
+                    <y>8</y>
+                </coordinate>
+                <textures>wall_edge_left.png</textures>
+            </block>
+            <block id="4">
+                <coordinate>
+                    <layer>2</layer>
+                    <x>9</x>
+                    <y>6</y>
+                </coordinate>
+                <textures>heart.png</textures>
+            </block>
+            <block id="1">
+                <coordinate>
+                    <layer>2</layer>
+                    <x>0</x>
+                    <y>2</y>
+                </coordinate>
+                <textures>wall_edge_left.png</textures>
+            </block>
+            <block id="1">
+                <coordinate>
+                    <layer>2</layer>
+                    <x>0</x>
+                    <y>4</y>
+                </coordinate>
+                <textures>wall_edge_left.png</textures>
+            </block>
+            <block id="1">
+                <coordinate>
+                    <layer>2</layer>
+                    <x>1</x>
+                    <y>4</y>
+                </coordinate>
+                <textures>wall_mid.png</textures>
+            </block>
+            <block id="1">
+                <coordinate>
+                    <layer>2</layer>
+                    <x>2</x>
+                    <y>4</y>
+                </coordinate>
+                <textures>wall_mid.png</textures>
+            </block>
+            <block id="1">
+                <coordinate>
+                    <layer>2</layer>
+                    <x>3</x>
+                    <y>4</y>
+                </coordinate>
+                <textures>wall_mid.png</textures>
+            </block>
+            <block id="1">
+                <coordinate>
+                    <layer>2</layer>
+                    <x>0</x>
+                    <y>6</y>
+                </coordinate>
+                <textures>wall_edge_left.png</textures>
+            </block>
+            <block id="1">
+                <coordinate>
+                    <layer>2</layer>
+                    <x>1</x>
+                    <y>6</y>
+                </coordinate>
+                <textures>wall_mid.png</textures>
+            </block>
+            <block id="1">
+                <coordinate>
+                    <layer>2</layer>
+                    <x>2</x>
+                    <y>6</y>
+                </coordinate>
+                <textures>wall_mid.png</textures>
+            </block>
+            <block id="1">
+                <coordinate>
+                    <layer>2</layer>
+                    <x>3</x>
+                    <y>6</y>
+                </coordinate>
+                <textures>wall_mid.png</textures>
+            </block>
+            <block id="1">
+                <coordinate>
+                    <layer>2</layer>
+                    <x>5</x>
+                    <y>6</y>
+                </coordinate>
+                <textures>wall_mid.png</textures>
+            </block>
+            <block id="1">
+                <coordinate>
+                    <layer>2</layer>
+                    <x>7</x>
+                    <y>6</y>
+                </coordinate>
+                <textures>wall_mid.png</textures>
+            </block>
+            <block id="1">
+                <coordinate>
+                    <layer>2</layer>
+                    <x>6</x>
+                    <y>6</y>
+                </coordinate>
+                <textures>wall_mid.png</textures>
+            </block>
+            <block id="6">
+                <coordinate>
+                    <layer>2</layer>
+                    <x>1</x>
+                    <y>5</y>
+                </coordinate>
+                <textures>key.png</textures>
+            </block>
+            <block id="4">
+                <coordinate>
+                    <layer>2</layer>
+                    <x>7</x>
+                    <y>5</y>
+                </coordinate>
+                <textures>heart.png</textures>
+            </block>
+            <block id="4">
+                <coordinate>
+                    <layer>2</layer>
+                    <x>6</x>
+                    <y>5</y>
+                </coordinate>
+                <textures>heart.png</textures>
+            </block>
+            <block id="1">
+                <coordinate>
+                    <layer>2</layer>
+                    <x>0</x>
+                    <y>8</y>
+                </coordinate>
+                <textures>wall_edge_mid_left.png</textures>
+            </block>
+            <block id="1">
+                <coordinate>
+                    <layer>2</layer>
+                    <x>0</x>
+                    <y>9</y>
+                </coordinate>
+                <textures>wall_edge_mid_left.png</textures>
+            </block>
+            <block id="1">
+                <coordinate>
+                    <layer>2</layer>
+                    <x>4</x>
+                    <y>6</y>
+                </coordinate>
+                <textures>wall_edge_left.png</textures>
+            </block>
+            <block id="1">
+                <coordinate>
+                    <layer>2</layer>
+                    <x>4</x>
+                    <y>7</y>
+                </coordinate>
+                <textures>wall_edge_mid_left.png</textures>
+            </block>
+            <block id="1">
+                <coordinate>
+                    <layer>2</layer>
+                    <x>4</x>
+                    <y>8</y>
+                </coordinate>
+                <textures>wall_edge_mid_left.png</textures>
+            </block>
+            <block id="1">
+                <coordinate>
+                    <layer>2</layer>
+                    <x>4</x>
+                    <y>9</y>
+                </coordinate>
+                <textures>wall_edge_mid_left.png</textures>
+            </block>
+            <block id="1">
+                <coordinate>
+                    <layer>2</layer>
+                    <x>4</x>
+                    <y>10</y>
+                </coordinate>
+                <textures>wall_edge_mid_left.png</textures>
+            </block>
+            <block id="1">
+                <coordinate>
+                    <layer>2</layer>
+                    <x>4</x>
+                    <y>11</y>
+                </coordinate>
+                <textures>wall_edge_mid_left.png</textures>
+            </block>
+            <block id="1">
+                <coordinate>
+                    <layer>2</layer>
+                    <x>4</x>
+                    <y>12</y>
+                </coordinate>
+                <textures>wall_edge_mid_left.png</textures>
+            </block>
+            <block id="7">
+                <coordinate>
+                    <layer>2</layer>
+                    <x>2</x>
+                    <y>12</y>
+                </coordinate>
+                <textures>doors_closed.png</textures>
+            </block>
+            <block id="9">
+                <coordinate>
+                    <layer>2</layer>
+                    <x>1</x>
+                    <y>11</y>
+                </coordinate>
+                <textures>spikes_close.png</textures>
+            </block>
+            <block id="9">
+                <coordinate>
+                    <layer>2</layer>
+                    <x>2</x>
+                    <y>11</y>
+                </coordinate>
+                <textures>spikes_close.png</textures>
+            </block>
+            <block id="1">
+                <coordinate>
+                    <layer>2</layer>
+                    <x>0</x>
+                    <y>11</y>
+                </coordinate>
+                <textures>wall_edge_left.png</textures>
+            </block>
+            <block id="1">
+                <coordinate>
+                    <layer>2</layer>
+                    <x>0</x>
+                    <y>12</y>
+                </coordinate>
+                <textures>wall_edge_left.png</textures>
+            </block>
+            <block id="1">
+                <coordinate>
+                    <layer>2</layer>
+                    <x>1</x>
+                    <y>12</y>
+                </coordinate>
+                <textures>wall_mid.png</textures>
+            </block>
+            <block id="1">
+                <coordinate>
+                    <layer>2</layer>
+                    <x>3</x>
+                    <y>12</y>
+                </coordinate>
+                <textures>wall_mid.png</textures>
+            </block>
+            <block id="1">
+                <coordinate>
+                    <layer>2</layer>
+                    <x>3</x>
+                    <y>11</y>
+                </coordinate>
+                <textures>wall_mid.png</textures>
+            </block>
+            <block id="5">
+                <coordinate>
+                    <layer>2</layer>
+                    <x>2</x>
+                    <y>8</y>
+                </coordinate>
+                <textures>lever_close.png</textures>
+            </block>
+            <block id="4">
+                <coordinate>
+                    <layer>2</layer>
+                    <x>1</x>
+                    <y>7</y>
+                </coordinate>
+                <textures>heart.png</textures>
+            </block>
+            <block id="4">
+                <coordinate>
+                    <layer>2</layer>
+                    <x>2</x>
+                    <y>7</y>
+                </coordinate>
+                <textures>heart.png</textures>
+            </block>
+            <block id="4">
+                <coordinate>
+                    <layer>2</layer>
+                    <x>1</x>
+                    <y>8</y>
+                </coordinate>
+                <textures>heart.png</textures>
+            </block>
+            <block id="4">
+                <coordinate>
+                    <layer>2</layer>
+                    <x>10</x>
+                    <y>9</y>
+                </coordinate>
+                <textures>heart.png</textures>
+            </block>
+            <block id="16">
+                <coordinate>
+                    <layer>2</layer>
+                    <x>7</x>
+                    <y>12</y>
+                </coordinate>
+                <textures>default.png</textures>
+            </block>
+            <block id="16">
+                <coordinate>
+                    <layer>2</layer>
+                    <x>2</x>
+                    <y>5</y>
+                </coordinate>
+                <textures>default.png</textures>
+            </block>
+            <block id="16">
+                <coordinate>
+                    <layer>2</layer>
+                    <x>13</x>
+                    <y>1</y>
+                </coordinate>
+                <textures>default.png</textures>
+            </block>
+            <block id="16">
+                <coordinate>
+                    <layer>2</layer>
+                    <x>10</x>
+                    <y>7</y>
+                </coordinate>
+                <textures>candlestick_2_2.png</textures>
+            </block>
+            <block id="16">
+                <coordinate>
+                    <layer>2</layer>
+                    <x>13</x>
+                    <y>8</y>
+                </coordinate>
+                <textures>side_torch_2.png</textures>
+            </block>
+            <block id="16">
+                <coordinate>
+                    <layer>2</layer>
+                    <x>3</x>
+                    <y>13</y>
+                </coordinate>
+                <textures>candlestick_2_2.png</textures>
+            </block>
+        </maze>
+        <maze height="20" id="0" layers="1" width="20"/>
+        <maze height="20" id="0" layers="1" width="20"/>
+    </mazes>
+    <links>
+        <link>
+            <source>
+                <mazeName>0</mazeName>
+                <layer>1</layer>
+                <x>1</x>
+                <y>3</y>
+            </source>
+            <target>
+                <mazeName>0</mazeName>
+                <layer>1</layer>
+                <x>8</x>
+                <y>5</y>
+            </target>
+        </link>
+        <link>
+            <source>
+                <mazeName>0</mazeName>
+                <layer>1</layer>
+                <x>8</x>
+                <y>1</y>
+            </source>
+            <target>
+                <mazeName>0</mazeName>
+                <layer>1</layer>
+                <x>8</x>
+                <y>3</y>
+            </target>
+        </link>
+        <link>
+            <source>
+                <mazeName>0</mazeName>
+                <layer>1</layer>
+                <x>4</x>
+                <y>8</y>
+            </source>
+            <target>
+                <mazeName>0</mazeName>
+                <layer>1</layer>
+                <x>6</x>
+                <y>7</y>
+            </target>
+        </link>
+        <link>
+            <source>
+                <mazeName>0</mazeName>
+                <layer>1</layer>
+                <x>1</x>
+                <y>3</y>
+            </source>
+            <target>
+                <mazeName>0</mazeName>
+                <layer>1</layer>
+                <x>6</x>
+                <y>7</y>
+            </target>
+        </link>
+        <link>
+            <source>
+                <mazeName>1</mazeName>
+                <layer>2</layer>
+                <x>9</x>
+                <y>9</y>
+            </source>
+            <target>
+                <mazeName>1</mazeName>
+                <layer>2</layer>
+                <x>4</x>
+                <y>2</y>
+            </target>
+        </link>
+        <link>
+            <source>
+                <mazeName>1</mazeName>
+                <layer>2</layer>
+                <x>1</x>
+                <y>5</y>
+            </source>
+            <target>
+                <mazeName>1</mazeName>
+                <layer>2</layer>
+                <x>2</x>
+                <y>12</y>
+            </target>
+        </link>
+        <link>
+            <source>
+                <mazeName>1</mazeName>
+                <layer>2</layer>
+                <x>9</x>
+                <y>5</y>
+            </source>
+            <target>
+                <mazeName>1</mazeName>
+                <layer>2</layer>
+                <x>4</x>
+                <y>4</y>
+            </target>
+        </link>
+        <link>
+            <source>
+                <mazeName>1</mazeName>
+                <layer>2</layer>
+                <x>2</x>
+                <y>8</y>
+            </source>
+            <target>
+                <mazeName>1</mazeName>
+                <layer>2</layer>
+                <x>13</x>
+                <y>12</y>
+            </target>
+        </link>
+        <link>
+            <source>
+                <mazeName>1</mazeName>
+                <layer>2</layer>
+                <x>1</x>
+                <y>1</y>
+            </source>
+            <target>
+                <mazeName>1</mazeName>
+                <layer>2</layer>
+                <x>4</x>
+                <y>4</y>
+            </target>
+        </link>
+        <link>
+            <source>
+                <mazeName>1</mazeName>
+                <layer>2</layer>
+                <x>11</x>
+                <y>13</y>
+            </source>
+            <target>
+                <mazeName>0</mazeName>
+                <layer>1</layer>
+                <x>8</x>
+                <y>3</y>
+            </target>
+        </link>
+        <link>
+            <source>
+                <mazeName>0</mazeName>
+                <layer>1</layer>
+                <x>8</x>
+                <y>8</y>
+            </source>
+            <target>
+                <mazeName>1</mazeName>
+                <layer>2</layer>
+                <x>7</x>
+                <y>9</y>
+            </target>
+        </link>
+        <link>
+            <source>
+                <mazeName>1</mazeName>
+                <layer>2</layer>
+                <x>13</x>
+                <y>13</y>
+            </source>
+            <target>
+                <mazeName>0</mazeName>
+                <layer>1</layer>
+                <x>1</x>
+                <y>6</y>
+            </target>
+        </link>
+    </links>
+</level>
