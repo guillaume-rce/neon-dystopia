@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/neon-dystopia/static/css/main.6c57d090.css",
-    "main.js": "/neon-dystopia/static/js/main.6796a076.js",
+    "main.js": "/neon-dystopia/static/js/main.a386680f.js",
     "static/js/453.0c0fa0e5.chunk.js": "/neon-dystopia/static/js/453.0c0fa0e5.chunk.js",
     "static/media/NeonDystopia1.png": "/neon-dystopia/static/media/NeonDystopia1.79050f6dcf9aff9726f8.png",
     "static/media/discord.svg": "/neon-dystopia/static/media/discord.ff92a16f0f28bfb4e25fc458f1771030.svg",
     "static/media/steam.svg": "/neon-dystopia/static/media/steam.4c4a3d73b1aff41f2c6de15097855163.svg",
     "index.html": "/neon-dystopia/index.html",
     "main.6c57d090.css.map": "/neon-dystopia/static/css/main.6c57d090.css.map",
-    "main.6796a076.js.map": "/neon-dystopia/static/js/main.6796a076.js.map",
+    "main.a386680f.js.map": "/neon-dystopia/static/js/main.a386680f.js.map",
     "453.0c0fa0e5.chunk.js.map": "/neon-dystopia/static/js/453.0c0fa0e5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6c57d090.css",
-    "static/js/main.6796a076.js"
+    "static/js/main.a386680f.js"
   ]
 }
