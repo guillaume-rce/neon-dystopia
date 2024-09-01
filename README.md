@@ -1,4 +1,4 @@
-![NeonDystopia](https://github.com/GuillaumeROCHE49/Neon-Dystopia/assets/120665609/daa83056-f61e-4ed5-8248-3f832e4a64de)
+![Neon-Dystopia](NeonDystopia.png)
 
 # Neon Dystopia
 ### Be careful, this project is still in development.
