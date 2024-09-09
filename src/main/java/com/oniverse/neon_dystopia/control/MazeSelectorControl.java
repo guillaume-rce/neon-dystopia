@@ -39,6 +39,7 @@ public class MazeSelectorControl {
     }
 
     public void onClick(MouseEvent event) {
+        System.out.println("Click");
         if (event.getButton().equals(MouseButton.PRIMARY)){
             XMLReader selectedLevel = this.mapSelectionVue.getMapSelectorVue().getList().getSelectionModel().getSelectedItem();
             if (selectedLevel != null) {
