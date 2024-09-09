@@ -34,21 +34,26 @@ public class XMLReader {
      * It will read the xml file and create the document.
      *
      * @param file The path of the xml file.
+     * @param inRes If the file is in the resource.
      * @throws ParserConfigurationException If the parser is not configured correctly.
      * @throws IOException If an I/O error occurs.
      * @throws SAXException If any parse errors occur.
      * @see Document
      */
-    public XMLReader(String file) throws ParserConfigurationException, IOException, SAXException {
-        InputStream fileObj = getClass().getResourceAsStream(file);
-        if (fileObj == null) {
-            throw new IOException("The file " + file + " doesn't exist");
-        }
-
-
+    public XMLReader(String file, boolean inRes) throws ParserConfigurationException, IOException, SAXException {
         DocumentBuilderFactory dbf = DocumentBuilderFactory.newInstance();
         DocumentBuilder db = dbf.newDocumentBuilder();
-        this.document = db.parse(fileObj);
+
+        if (inRes) {
+            InputStream fileObj = getClass().getResourceAsStream(file);
+            if (fileObj == null) {
+                throw new IOException("The file " + file + " doesn't exist");
+            }
+            this.document = db.parse(fileObj);
+        } else {
+            this.document = db.parse(new File(file));
+        }
+
         this.document.getDocumentElement().normalize();
     }
 
@@ -82,6 +87,12 @@ public class XMLReader {
         return new LevelProperties(name, version, author);
     }
 
+    /**
+     * This method is used to get the mazes of the maze.
+     * Returns an empty ArrayList if there is no mazes.
+     * @return The mazes of the maze.
+     * @see Maze
+     */
     public ArrayList<com.oniverse.neon_dystopia.model.levelDesigner.Maze> getMazesForDesigner() {
         ArrayList<com.oniverse.neon_dystopia.model.levelDesigner.Maze> mazes = new ArrayList<>();
         Element mazesElement = (Element) document.getElementsByTagName("mazes").item(0);

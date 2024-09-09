@@ -8,6 +8,8 @@ import javafx.collections.FXCollections;
 import javafx.collections.ObservableList;
 import javafx.scene.control.ListView;
 
+import java.util.ArrayList;
+
 /**
  * The map selector view. It's a view that contains a list of all the maps.
  * @see Vue
@@ -21,7 +23,7 @@ public class MapSelectorVue extends Vue {
     /**
      * The list of all the map names.
      */
-    private ListView<XMLReader> list;
+    private ListView<XMLReader> list = new ListView<>();
 
     /**
      * Creates a new map selector view.
@@ -52,6 +54,12 @@ public class MapSelectorVue extends Vue {
         list.setLayoutX(this.boundingBox.getMinX());
         list.setLayoutY(this.boundingBox.getMinY());
         this.group.getChildren().add(list);
+    }
+
+    public void update() {
+        ObservableList<XMLReader> items = FXCollections.observableArrayList();
+        items.addAll(this.mapsGetter.getPlayerMaps());
+        list.setItems(items);
     }
 
     /**

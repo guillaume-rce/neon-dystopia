@@ -8,6 +8,13 @@ import javafx.scene.paint.Color;
 import javafx.scene.shape.Rectangle;
 import javafx.scene.text.Font;
 import javafx.scene.text.Text;
+import javafx.stage.DirectoryChooser;
+import javafx.stage.Stage;
+import javafx.scene.control.Button;
+import javafx.scene.layout.Pane;
+
+import java.io.File;
+import java.io.InputStream;
 
 public class MapSelectionVue extends Vue {
     private MapSelectorVue mapSelectorVue;
@@ -40,9 +47,29 @@ public class MapSelectionVue extends Vue {
         // ---- Map selector ----
         this.mapSelectorVue = new MapSelectorVue(
                 new Coordinate((int) (this.boundingBox.getMinX() + 20), (int) (this.boundingBox.getMinY() + 70)),
-                (int) (this.boundingBox.getWidth() - 90), (int) (this.boundingBox.getHeight() - 40),
-                mapsGetter);
+                (int) (this.boundingBox.getWidth() - 90), (int) (this.boundingBox.getHeight() - 100),
+                this.mapsGetter);
         this.group.getChildren().add(this.mapSelectorVue.getGroup());
+
+        // ---- Import Map Button ----
+        Button importButton = new Button("Import map");
+        importButton.setLayoutX(this.boundingBox.getMinX() + 40);
+        importButton.setLayoutY(this.boundingBox.getMinY() + this.boundingBox.getHeight() - 100);
+        this.group.getChildren().add(importButton);
+
+        // Event handling for the button
+        importButton.setOnAction(e -> {
+            DirectoryChooser directoryChooser = new DirectoryChooser();
+            directoryChooser.setTitle("Select Map Folder");
+            File selectedDirectory = directoryChooser.showDialog(new Stage());
+
+            if (selectedDirectory != null) {
+                // Call a method to handle importing maps from the selected directory
+                this.mapsGetter.loadMapsFromDirectory(selectedDirectory);
+                // Redraw the map selector with the new maps
+                this.mapSelectorVue.update();
+            }
+        });
     }
 
     public MapSelectorVue getMapSelectorVue() {
