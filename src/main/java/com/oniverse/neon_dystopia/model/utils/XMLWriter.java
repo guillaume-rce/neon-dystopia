@@ -3,7 +3,6 @@ package com.oniverse.neon_dystopia.model.utils;
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
-import java.util.ArrayList;
 import javax.xml.parsers.DocumentBuilder;
 import javax.xml.parsers.DocumentBuilderFactory;
 import javax.xml.parsers.ParserConfigurationException;
@@ -39,14 +38,17 @@ public class XMLWriter {
      */
     public XMLWriter(String filePath) throws ParserConfigurationException {
         System.out.println("Generating XML file from " + filePath);
+        if (filePath == null) {
+            throw new IllegalArgumentException("The file path can't be null");
+        }
+
         // Generate an empty document if the file doesn't exist
-        if (filePath != null) {
-            File file = new File(filePath);
-            if (!file.exists()) {
-                System.out.println("File doesn't exist, generating empty file");
-                this.document = DocumentBuilderFactory.newInstance().newDocumentBuilder().newDocument();
-                return;
-            }
+        File file = new File(filePath);
+        if (!file.exists()) {
+            System.out.println("File doesn't exist, generating empty file");
+            file.getParentFile().mkdirs();
+            this.document = DocumentBuilderFactory.newInstance().newDocumentBuilder().newDocument();
+            return;
         }
         DocumentBuilderFactory dbf = DocumentBuilderFactory.newInstance();
         DocumentBuilder db = dbf.newDocumentBuilder();

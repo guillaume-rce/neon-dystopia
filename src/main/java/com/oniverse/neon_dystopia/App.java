@@ -8,6 +8,7 @@ import javafx.stage.Stage;
 
 import java.io.FileInputStream;
 import java.io.IOException;
+import java.io.InputStream;
 
 /**
  * The main class of the game.
@@ -26,9 +27,9 @@ public class  App extends Application {
 
         stage.setTitle("Neon dystopia - V0.0.1 Alpha");
         stage.setScene(scene);
-        stage.getIcons().add(
-                new Image(
-                    new FileInputStream("src/main/resources/com/oniverse/neon_dystopia/textures/icon/NeonDystopia.png")));
+        InputStream icon = getClass().getResourceAsStream("/com/oniverse/neon_dystopia/textures/icon/NeonDystopia.png");
+        assert icon != null;
+        stage.getIcons().add(new Image(icon));
         stage.show();
     }
 

@@ -8,7 +8,7 @@ public class Textures {
     /**
      * The path to find the textures.
      */
-    private static final String basicPath = "src/main/resources/com/oniverse/neon_dystopia/textures/blocks/";
+    private static final String basicPath = "/com/oniverse/neon_dystopia/textures/blocks/";
     /**
      * The id of the block.
      */

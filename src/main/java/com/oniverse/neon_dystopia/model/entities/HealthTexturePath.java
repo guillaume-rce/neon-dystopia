@@ -8,7 +8,7 @@ public class HealthTexturePath {
     /**
      * The path to the health texture.
      */
-    private static final String path = "src/main/resources/com/oniverse/neon_dystopia/textures/entities/info/heart.png";
+    private static final String path = "/com/oniverse/neon_dystopia/textures/entities/info/heart.png";
 
     /**
      * Get the path to the health texture.

@@ -7,7 +7,7 @@
     <groupId>com.oniverse</groupId>
     <artifactId>neon_dystopia</artifactId>
     <version>1.0-SNAPSHOT</version>
-    <name>neon_dystopia</name>
+    <name>Neon Dystopia</name>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -74,4 +74,6 @@
             </plugin>
         </plugins>
     </build>
+    <description>Neon Dystopia is a community puzzle and maze game where you have to find the exit of a maze by activating some mechanisms.
+You'll advance from floor to floor, avoiding traps and pitfalls, all in retro-wave style.</description>
 </project>

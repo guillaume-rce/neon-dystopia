@@ -2,6 +2,7 @@ package com.oniverse.neon_dystopia.model.utils;
 
 import java.io.File;
 import java.io.IOException;
+import java.io.InputStream;
 import java.util.ArrayList;
 import javax.xml.parsers.DocumentBuilder;
 import javax.xml.parsers.DocumentBuilderFactory;
@@ -39,7 +40,12 @@ public class XMLReader {
      * @see Document
      */
     public XMLReader(String file) throws ParserConfigurationException, IOException, SAXException {
-        File fileObj = new File(file);
+        InputStream fileObj = getClass().getResourceAsStream(file);
+        if (fileObj == null) {
+            throw new IOException("The file " + file + " doesn't exist");
+        }
+
+
         DocumentBuilderFactory dbf = DocumentBuilderFactory.newInstance();
         DocumentBuilder db = dbf.newDocumentBuilder();
         this.document = db.parse(fileObj);

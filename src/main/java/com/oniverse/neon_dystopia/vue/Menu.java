@@ -42,7 +42,7 @@ public class Menu {
         // Start button
         this.group.getChildren().add(rectangle);
 
-        ImageVue logo = new ImageVue("src/main/resources/com/oniverse/neon_dystopia/textures/icon/NeonDystopia.png",
+        ImageVue logo = new ImageVue("/com/oniverse/neon_dystopia/textures/icon/NeonDystopia.png",
                 new Coordinate(this.windowSize / 2 - 200, -10), 400, 170, false);
         this.group.getChildren().add(logo.getGroup());
 

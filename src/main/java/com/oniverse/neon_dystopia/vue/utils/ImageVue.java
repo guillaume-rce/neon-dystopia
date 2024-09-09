@@ -87,7 +87,9 @@ public class ImageVue {
     public void draw(String imagePath) throws FileNotFoundException {
         this.group.getChildren().clear();
         ImageView imageView = new ImageView();
-        InputStream stream = new FileInputStream(imagePath);
+        InputStream stream = getClass().getResourceAsStream(imagePath);
+        if (stream == null)
+            throw new FileNotFoundException("The image " + imagePath + " is not found");
         image = new Image(stream, this.boundingBox.getWidth(), this.boundingBox.getHeight(),
                 false, false);
         imageView.setImage(image);
