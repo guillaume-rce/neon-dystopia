@@ -2,7 +2,7 @@ import { Button, Stack, SvgIcon, Typography } from "@mui/material";
 
 import Logo from "../../resources/NeonDystopia1.png"
 import GitHubIcon from '@mui/icons-material/GitHub';
-import { ReactComponent as SteamIcon } from '../../resources/icons/steam.svg';
+import { ReactComponent as ItchIoIcon } from '../../resources/icons/itch-io.svg';
 import { ReactComponent as DiscordIcon } from '../../resources/icons/discord.svg';
 
 import "./Welcome.css"
@@ -25,7 +25,9 @@ const Welcome = () => {
                     variant="outlined"
                     size="large"
                     className="welcome-button play"
-                    startIcon={<SvgIcon component={SteamIcon} inheritViewBox />}
+                    startIcon={<SvgIcon component={ItchIoIcon} inheritViewBox />}
+                    href="https://guillaume-rce.itch.io/neon-dystopia"
+                    target="_blank"
                 >
                     Play
                 </Button>
@@ -34,7 +36,7 @@ const Welcome = () => {
                     size="large"
                     className="welcome-button contribute"
                     startIcon={<GitHubIcon />}
-                    href="https://github.com/guillaume-rce/Neon-Dystopia"
+                    href="https://github.com/guillaume-rce/neon-dystopia"
                     target="_blank"
                 >
                     Contribute
@@ -44,6 +46,8 @@ const Welcome = () => {
                     size="large"
                     className="welcome-button join"
                     startIcon={<SvgIcon component={DiscordIcon} inheritViewBox />}
+                    href="https://discord.gg/EnQGqjtbjw"
+                    target="_blank"
                 >
                     Join
                 </Button>
