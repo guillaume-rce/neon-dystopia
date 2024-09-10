@@ -53,8 +53,8 @@ public class MapSelectionVue extends Vue {
 
         // ---- Import Map Button ----
         Button importButton = new Button("Import map");
-        importButton.setLayoutX(this.boundingBox.getMinX() + 40);
-        importButton.setLayoutY(this.boundingBox.getMinY() + this.boundingBox.getHeight() - 100);
+        importButton.setLayoutX(this.boundingBox.getMinX() + 520);
+        importButton.setLayoutY(this.boundingBox.getMinY() + 25);
         this.group.getChildren().add(importButton);
 
         // Event handling for the button

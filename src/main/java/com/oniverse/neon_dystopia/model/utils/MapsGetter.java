@@ -117,12 +117,7 @@ public class MapsGetter {
                 while ((bytesRead = in.read(buffer)) != -1) {
                     String directoryPath = new String(buffer, 0, bytesRead);
                     File directory = new File(directoryPath);
-                    if (directory.exists()) {
-                        this.loadMapsFromDirectory(directory);
-
-                    } else {
-                        System.out.println("Directory not found : " + directoryPath);
-                    }
+                    this.loadMapsFromDirectory(directory);
                 }
             } catch (IOException e) {
                 System.out.println("Error while reading saved directory : " + e.getMessage());
@@ -140,6 +135,7 @@ public class MapsGetter {
      * @param directory The directory to load the maps from.
      */
     public void loadMapsFromDirectory(File directory) {
+        System.out.println("Loading maps from directory " + directory.getPath());
         File[] listOfFiles = directory.listFiles();
         if (listOfFiles == null) {
             System.out.println("No player maps found");
